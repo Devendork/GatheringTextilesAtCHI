@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Gathering Textiles at CHI</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Gathering Textiles at CHI</description>
+    <generator>Hugo -- 0.139.4</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 12 Dec 2024 15:37:48 -0700</lastBuildDate>
+    <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Call for Participants</title>
+      <link>http://example.org/posts/call/</link>
+      <pubDate>Thu, 12 Dec 2024 15:37:48 -0700</pubDate>
+      <guid>http://example.org/posts/call/</guid>
+      <description>&lt;p&gt;We invite submissions in the form of a short 250-word description and visual documentation of a found or self-made textile object, pattern, material or tool alongside a 250-word reflection on how it may be seen to hold both knowledges and questions.  Please submit this via this &lt;a href=&#34;https://docs.google.com/forms/d/e/1FAIpQLSd4-6nUyzaEcIvcXBRbq3DbHnhc1tFQPpitqxTxEVQRw-DIwg/viewform?usp=sf_link&#34;&gt;Google Form&lt;/a&gt;. Submissions should be received by February 13 AoE.&lt;/p&gt;
+&lt;p&gt;Please indicate in your submission if you plan on attending CHI in person or not.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Motivation</title>
+      <link>http://example.org/motivation/</link>
+      <pubDate>Wed, 11 Dec 2024 15:57:20 -0700</pubDate>
+      <guid>http://example.org/motivation/</guid>
+      <description>&lt;p&gt;Textiles are increasingly present within the many diverse areas of inquiry that characterize CHI research. We see textile techniques like felting, knitting, embroidery, spinning, weaving,  sewing, and pleating/folding leveraged to create new forms of soft 3D objects; we see electronics integrated into textile structures enabling new forms of sensing, biofeedback and haptics; we see the specific modes of engagement with textiles and fickle yarns provoking border reflection on norms in design research; and cloth being used as a means to communicate data and engagement through visceral modalities; to name only a few. As CHI tends to organize around shared application themes like “wearables” or “healthcare”, these diverse textile communities are often working in parallel silos both within and beyond CHI. This is further exacerbated by the vastness of resources, histories, and practices for each textile tradition. Such knowledge is  located not just in text, but in bodies and communities and may only be accessible or legible through conversation and engagement with collaborators who have cultivated these skills and knowledge. Put another way, you cannot learn all you need from books, YouTube tutorials, or prior publications. We need on-the-ground and in-the-hand knowledge and relationships in order to collectively learn, share, and grow new traditions and techniques.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Organizers</title>
+      <link>http://example.org/organizers/</link>
+      <pubDate>Tue, 12 Nov 2024 15:55:18 -0700</pubDate>
+      <guid>http://example.org/organizers/</guid>
+      <description>&lt;h2 id=&#34;kaori-ueda&#34;&gt;Kaori Ueda&lt;/h2&gt;
+&lt;p&gt;is an Associate professor at Kyoto Saga University of Arts. Her research focuses on the relationship between traditional crafts and the latest technology. In particular, she has been researching digital fabrication in the field of Nishijin textiles in Kyoto. She is a co-organizer and organizer of the Kyoto Textile Summer School, an international summer school that covers topics such as electronic textiles while also collaborating with traditional craft production sites.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

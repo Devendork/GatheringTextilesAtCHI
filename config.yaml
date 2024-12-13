@@ -1,0 +1,26 @@
+baseURL: http://example.org/
+languageCode: en-us
+title: Gathering Textiles at CHI
+theme: ["PaperMod"]
+
+params:
+  homeInfoParams:
+    Title:  Join us for a one-day skill share and speculation at [CHI 2025](https://chi2025.acm.org/). 
+    Content: This workshop is intended for anyone attending CHI who engages (or is interested in engaging) textile craft materials and techniques in their research. In it, we will share some of our materials, objects, tools, and patterns, develop new skills and speculate on future research directions. We will also work with our Japanese colleagues to obtain materials, samples, and compile resources prior to the workshop that will form the basis of our making and speculating activities. Our goal is to create a space for practitioners across CHI to connect and share their soft practices. By doing so, **we hope to advance textiles at CHI by building a collective awareness of possibilities and practices.**
+
+
+
+menu:
+  main:
+    - identifier: motivation
+      name: motivation
+      url: /motivation/
+      weight: 10
+    - identifier: organizers
+      name: organizers
+      url: /organizers/
+      weight: 20
+    - identifier: submit
+      name: submit
+      url: https://docs.google.com/forms/d/e/1FAIpQLSd4-6nUyzaEcIvcXBRbq3DbHnhc1tFQPpitqxTxEVQRw-DIwg/viewform?usp=sf_link
+      weight: 30
